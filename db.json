@@ -1,0 +1,224 @@
+{
+    "course-11":[
+        {
+        "id":1,
+        "subject":"Biology",
+        "image":"biology",
+        "description":"Biology - Class-11, Unsolved sample paper 2022-23",
+        "download":"assets/images/courses-11/11-Biology-Sample-Papers-3.pdf",
+        "view":"assets/images/courses-11/11-Biology-Sample-Papers-3.pdf",
+        "author":"Tushar",
+        "class":"class-11"
+      
+      },
+      {
+      "id":2,
+      "subject":"Geography",
+      "image":"geography",
+      "description":"Geography - Class-11, Solved sample paper 2018-19",
+      "download":"assets/images/courses-11/11-Geography-Sample-Papers-2018-2019-Hindi-Medium-2.pdf",
+      "view":"assets/images/courses-11/11-Geography-Sample-Papers-2018-2019-Hindi-Medium-2.pdf",
+      "author":"Tushar",
+        "class":"class-11"
+      
+      },
+      {
+      "id":3,
+      "subject":"History",
+      "image":"history",
+      "description":"History - Class-11, mid-term sample paper 2018-19",
+      "download":"assets/images/courses-11/1682411-History-Sample-Papers-2018-2019-Hindi-Medium-2.pdf",
+      "view":"assets/images/courses-11/1682411-History-Sample-Papers-2018-2019-Hindi-Medium-2.pdf",
+      "author":"Tushar",
+        "class":"class-11"
+      
+      },
+      {
+      "id":4,
+      "subject":"Economics",
+      "image":"economics",
+      "description":"Economics - Class-11,  sample paper 1 2022-23",
+      "download":"assets/images/courses-11/sample1-eco-2022-23.pdf",
+      "view":"assets/images/courses-11/sample1-eco-2022-23.pdf",
+      "author":"Tushar",
+        "class":"class-11"
+      
+      },  {
+        "id":5,
+        "subject":"Economics",
+        "image":"economics",
+        "description":"Economics - Class-11,  sample paper 2 2022-23",
+        "download":"assets/images/courses-11/sample2-eco-2022-23.pdf",
+        "view":"assets/images/courses-11/sample2-eco-2022-23.pdf",
+        "author":"Tushar",
+          "class":"class-11"
+        
+        },
+        {
+          "id":6,
+          "subject":"Economics",
+          "image":"economics",
+          "description":"Economics - Class-11,  sample paper 3 2022-23",
+          "download":"assets/images/courses-11/sample3-eco-2022-23.pdf",
+          "view":"assets/images/courses-11/sample3-eco-2022-23.pdf",
+          "author":"Tushar",
+            "class":"class-11"
+          
+          },
+          {
+            "id":7,
+            "subject":"Economics",
+            "image":"economics",
+            "description":"Economics - Class-11,  sample paper 4 2022-23",
+            "download":"assets/images/courses-11/sample4-eco-2022-23.pdf",
+            "view":"assets/images/courses-11/sample4-eco-2022-23.pdf",
+            "author":"Tushar",
+              "class":"class-11"
+            
+            },
+      {
+      "id":8,
+      "subject":"Accounts",
+      "image":"accounts",
+      "description":"Accounts - Class-11,  sample paper 4 2022-23",
+      "download":"assets/images/courses-11/sample-accounts-2022-23.pdf",
+      "view":"assets/images/courses-11/sample-accounts-2022-23.pdf",
+      "author":"Tushar",
+        "class":"class-11"
+      
+      },
+      {
+        "id":9,
+        "subject":"Accounts",
+        "image":"accounts",
+        "description":"Accounts - Class-11,  sample paper 4 2022-23",
+        "download":"assets/images/courses-11/sample2-accounts-2022-23.pdf",
+        "view":"assets/images/courses-11/sample2-accounts-2022-23.pdf",
+        "author":"Tushar",
+          "class":"class-11"
+        
+        },
+        {
+          "id":10,
+          "subject":"Accounts",
+          "image":"accounts",
+          "description":"Accounts - Class-11,  sample paper 4 2022-23",
+          "download":"assets/images/courses-11/sample3-accounts-2022-23.pdf",
+          "view":"assets/images/courses-11/sample3-accounts-2022-23.pdf",
+          "author":"Tushar",
+            "class":"class-11"
+          
+          },
+      {
+        "id":11,
+        "subject":"English",
+        "image":"english",
+        "description":"English - Class-11, sample paper 2020-21",
+        "download":"assets/images/courses-11/sample-english-2020-21.pdf",
+        "view":"assets/images/courses-11/sample-english-2020-21.pdf",
+        "author":"Tushar",
+          "class":"class-11"
+        
+        },
+        {
+          "id":12,
+          "subject":"English",
+          "image":"english",
+          "description":"English - Class-11, sample paper 2022-23",
+          "download":"assets/images/courses-11/sample-english-2022-23.pdf",
+          "view":"assets/images/courses-11/sample-english-2022-23.pdf",
+          "author":"Tushar",
+            "class":"class-11"
+          
+          },
+          {
+            "id":13,
+            "subject":"English",
+            "image":"english",
+            "description":"English - Class-11, unsloved sample paper 2020-21",
+            "download":"assets/images/courses-11/sample-unsolved-english-2020-21.pdf",
+            "view":"assets/images/courses-11/sample-unsolved-english-2020-21.pdf",
+            "author":"Tushar",
+              "class":"class-11"
+            
+            },
+            {
+              "id":14,
+              "subject":"Physical Edu.",
+              "image":"physical",
+              "description":"Physical Education - Class-11, unsloved sample paper-2022-23",
+              "download":"assets/images/courses-11/sample-physical-2022-23.pdf",
+              "view":"assets/images/courses-11/sample-physical-2022-23.pdf",
+              "author":"Tushar",
+                "class":"class-11"
+              
+              },
+              {
+                "id":15,
+                "subject":"Chemistry",
+                "image":"chemistry",
+                "description":"Chemistry - Class-11, unsolved sample paper 2021-22",
+                "download":"assets/images/courses-11/sample-unsolved-chemistry-2021-22.pdf",
+                "view":"assets/images/courses-11/sample-unsolved-chemistry-2021-22.pdf",
+                "author":"Tushar",
+                  "class":"class-11"
+                
+                },
+                {
+                  "id":16,
+                  "subject":"Chemistry",
+                  "image":"chemistry",
+                  "description":"Chemistry - Class-11, solved sample paper 2021-22",
+                  "download":"assets/images/courses-11/sample-solved-chemistry-2021-22.pdf",
+                  "view":"assets/images/courses-11/sample-solved-chemistry-2021-22.pdf",
+                  "author":"Tushar",
+                    "class":"class-11"
+                  
+                  },
+                  {
+                    "id":17,
+                    "subject":"Maths",
+                    "image":"maths",
+                    "description":"Maths - Class-11, unsolved sample paper 2021-22",
+                    "download":"assets/images/courses-11/sample-unsolved-maths-2021-22.pdf",
+                    "view":"assets/images/courses-11/sample-unsolved-maths-2021-22.pdf",
+                    "author":"Tushar",
+                      "class":"class-11"
+                    
+                    },
+                    {
+                      "id":18,
+                      "subject":"Maths",
+                      "image":"maths",
+                      "description":"Maths - Class-11, solved sample paper 2021-22",
+                      "download":"assets/images/courses-11/sample-solved-maths-2021-22.pdf",
+                      "view":"assets/images/courses-11/sample-solved-maths-2021-22.pdf",
+                      "author":"Tushar",
+                        "class":"class-11"
+                      
+                      },
+                      {
+                        "id":19,
+                        "subject":"Physics",
+                        "image":"physics",
+                        "description":"Physics - Class-11, unsolved sample paper 2021-22",
+                        "download":"assets/images/courses-11/sample-unsolved-physics-2021-22.pdf",
+                        "view":"assets/images/courses-11/sample-unsolved-physics-2021-22.pdf",
+                        "author":"Tushar",
+                          "class":"class-11"
+                        
+                        },
+                        {
+                          "id":20,
+                          "subject":"Physics",
+                          "image":"physics",
+                          "description":"Physics - Class-11, solved sample paper 2021-22",
+                          "download":"assets/images/courses-11/sample-solved-physics-2021-22.pdf",
+                          "view":"assets/images/courses-11/sample-solved-physics-2021-22.pdf",
+                          "author":"Tushar",
+                            "class":"class-11"
+                          
+                          }
+              
+      ]
+}
